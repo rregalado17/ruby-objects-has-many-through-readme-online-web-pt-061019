@@ -14,6 +14,7 @@ class Customer
     @@all 
   end
   
+  def meals(meal)
 
   
 end
